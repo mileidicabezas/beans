@@ -2,7 +2,10 @@ package chickpeas;
     public  class PigLatin {
 
     /*
-rules:
+    - add suffix in each word of a massage
+
+
+    rules:
     - message(suffix) --> equal or grater than 2 characters
     - massage --> contain at least one word to alter
     - words --> separated by a single withe space
